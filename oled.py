@@ -1,6 +1,3 @@
-import time
-import subprocess
-import smbus
 import Adafruit_SSD1306 as ssd1306
 from PIL import Image
 from PIL import ImageDraw
